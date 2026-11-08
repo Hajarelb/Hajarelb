@@ -1,16 +1,31 @@
-# Hajar El Bachiri
+# Hi, I'm Hajar EL BACHIRI 👋
 
-**Master's student in DevOps & Cloud Computing** · Larache, Morocco (open to relocation within Morocco)
+### DevOps & Cloud Computing Master's student · I containerize, automate and secure ✅
 
-I'm a second-year Master's student looking for a **6-month final-year project internship (PFE) starting January/February 2027** in DevOps, Cloud Computing or software engineering. I like building automated pipelines and containerized environments, and making them secure and observable.
+Larache, Morocco (open to relocation within Morocco) · Looking for a **6-month PFE internship starting January/February 2027**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hajar%20El%20Bachiri-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajar-e-b47bb6256/)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-2E8B57?style=flat)](mailto:hajar.elbachiri@etu.ac.ma)
+---
 
-Email: [hajar.elbachiri@etu.ac.ma](mailto:hajar.elbachiri@etu.ac.ma)
+## 🙋‍♀️ About me
+
+- 🎓 Master's student in **DevOps & Cloud Computing** at the Polydisciplinary Faculty of Larache. From Agadir, studying in Larache.
+- 🔧 I'm specializing in **CI/CD, containers and infrastructure automation**: the kind of work where a commit turns into a running, tested and monitored application without anyone clicking buttons.
+- 🛡️ **DevSecOps** is where I dig deepest: security checks (SAST, SCA, DAST, container scanning) built into the pipeline instead of added at the end.
+- 🧠 Perfectionist by nature, learner by choice. A green pipeline makes my day.
+- 🤖 I also have a soft spot for AI: I trained a YOLOv8n model to detect eucalyptus trees from images.
+- 🌍 Arabic, French and English.
+
+## 🚀 What I'm working on
+
+- 🔐 A **DevSecOps pipeline** for a Java web application (group project): SonarQube, Semgrep, Dependabot, OWASP ZAP and Trivy, all wired into GitHub Actions
+- ☸️ **Kubernetes and Docker Swarm** labs: rolling updates, automatic rollbacks, Ingress, persistent volumes and autoscaling
+- 🔁 **Jenkins pipelines** with a clean Git workflow (branches, tags, reverts)
 
 ---
 
-## Tech stack
+## 🛠️ Tech stack
 
 **DevOps & CI/CD**
 
@@ -45,7 +60,7 @@ Email: [hajar.elbachiri@etu.ac.ma](mailto:hajar.elbachiri@etu.ac.ma)
 
 ---
 
-## Featured work
+## 📂 Featured work
 
 ### [LiveChat DevSecOps pipeline](https://github.com/DevSecOps-G2/workshops-groupe2) · group project of 3, in progress
 Securing a Java/Maven web application (Jakarta EE, WebSocket, MySQL) from code to container, as part of the Master's DevSecOps module.
@@ -65,11 +80,13 @@ Hands-on labs covering:
 
 ---
 
-## Education
+## 🎓 Education
 
 - **Master's in DevOps & Cloud Computing**, Polydisciplinary Faculty of Larache (2025 – present)
 - **Bachelor's in Mathematics and Computer Science (Software Engineering)**, Faculty of Sciences, Agadir (2023 – 2025)
 
 ---
+
+## 📬 Let's connect
 
 If you're looking for a DevOps / Cloud intern, I'd be glad to talk. You can reach me on [LinkedIn](https://www.linkedin.com/in/hajar-e-b47bb6256/) or by [email](mailto:hajar.elbachiri@etu.ac.ma).
